@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="451px" height="512px" viewBox="0 0 451 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Logo Readable Reflection</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo-Readable-Reflection" fill-rule="nonzero">
+            <polygon id="Path" fill="#004B87" points="41 460 0 0 451 0 410 460 225 512"></polygon>
+            <g id="Group" transform="translate(58.000000, 53.000000)">
+                <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="166.710526 405.612664 324.423977 362.215004 361.762256 0 167.002022 0"></polygon>
+                <polygon id="Path" fill="#FFCD00" points="330.245614 30.1046464 324.988601 89.2978028 257.936686 89.2978028 257.936686 150.61158 319.542936 150.61158 314.192032 210.868975 257.936686 210.868975 257.936686 288.037204 308.454264 275.469757 303.238189 334.206967 199.302774 363.525699 198.994152 30.1055194"></polygon>
+                <polygon id="Path" fill="#FFCD00" points="149.245614 30.1055184 148.932029 89.2260511 64.8650832 89.2260511 70.1350554 150.465506 117.704177 150.465506 117.704177 210.649859 75.0914426 210.649859 81.7377051 287.724548 87.1418221 350.823945 27.0614461 333.838345 0 30.1046464"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
